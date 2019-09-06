@@ -423,10 +423,12 @@ public class Main {
                                         }break;}break;}break;
 
                 }break;
+                
 
-
+            default:
+                System.out.println("Please input a valid number. Quit and start over ");
+                break;
 
         }
-
     }
 }
