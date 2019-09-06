@@ -17,6 +17,7 @@ public class PrimeNumbers {
                     else{
                         prime_check=true;
                     }}}
+            else if(num==2){prime_check=true;}
 
             else{
                 prime_check=false;
