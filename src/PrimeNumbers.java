@@ -29,4 +29,7 @@ public class PrimeNumbers {
 
 
         } }}
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6f3aeed600cc18e6f2809824d511191588634528
